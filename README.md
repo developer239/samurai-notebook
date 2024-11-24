@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LE0BT0H6RTJ6OuALZf6lNopQm6vSzJkE?usp=sharing)
+
 # SAMURAI Demo with Custom Video - Jupyter Notebook
 
 ## Overview
