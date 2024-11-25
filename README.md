@@ -2,9 +2,9 @@
 
 # SAMURAI Demo with Custom Video - Jupyter Notebook
 
-## Overview
-
 This Jupyter Notebook is designed to help you run [**SAMURAI**](https://github.com/yangchris11/samurai)
+
+![image](/result.gif)
 
 ## Features
 
@@ -19,8 +19,7 @@ This Jupyter Notebook is designed to help you run [**SAMURAI**](https://github.c
 ### Prerequisites
 
 - A Google account to use [Google Colab](https://colab.research.google.com/).
-- A custom video file (e.g., in `.mp4` or `.avi` format).
-- Basic familiarity with running cells in a Jupyter Notebook.
+- A custom video file (e.g., in `.mp4` or `.avi` format) (or you can use the one in `/assets/`)
 
 ## Other
 
